@@ -5,6 +5,11 @@
 
 // I AM NOT DONE
 
+fn call_me() {
+    // Your implementation here
+}
+
 fn main() {
     call_me();
 }
+
